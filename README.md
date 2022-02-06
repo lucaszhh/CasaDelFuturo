@@ -1,3 +1,3 @@
-# codoacodo
+# Casa del Futuro
 
-La página web está publicada en [Netlify](https://casadelfuturogc.netlify.app/)
+La página web de [La Casa del Futuro](https://casadelfuturogc.netlify.app/)
